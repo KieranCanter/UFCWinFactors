@@ -2450,6 +2450,7 @@ plt.show()
 
     
 ![png](UFCWinFactors_files/UFCWinFactors_88_0.png)
+![UFCWinFactors_88_0](https://github.com/KieranCanter/UFCWinFactors/assets/74733079/dd70896a-3e34-48f2-87b7-39db8d12cb95)
     
 
 
