@@ -2054,9 +2054,8 @@ plt.show()
 ```
 
 
-    
-![png](UFCWinFactors_files/UFCWinFactors_65_0.png)
-    
+![UFCWinFactors_65_0](https://github.com/KieranCanter/UFCWinFactors/assets/74733079/9f5e1a98-b75b-413d-aa2a-e9284d4d88ef)
+   
 
 
 We see that the majority of fighters are between the 25-35 range. This should be unsurprising, because it takes most fighters a few years of fighting amateur fights when they are in their younger twenties and many fighters start to retire after 35+. The career span of athletes to begin with are relatively short, almost always less than twenty years. The career span of combat sports athletes are even shorter because of the physical strain on their bodies and the damage they take in the cage/ring.
@@ -2078,8 +2077,7 @@ plt.show()
 ```
 
 
-    
-![png](UFCWinFactors_files/UFCWinFactors_67_0.png)
+![UFCWinFactors_67_0](https://github.com/KieranCanter/UFCWinFactors/assets/74733079/baaee619-9fbb-4695-b1fc-07f42ae62633)
     
 
 
@@ -2102,8 +2100,7 @@ plt.show()
 ```
 
 
-    
-![png](UFCWinFactors_files/UFCWinFactors_69_0.png)
+![UFCWinFactors_69_0](https://github.com/KieranCanter/UFCWinFactors/assets/74733079/22df8f3c-bbb8-48de-b204-76cb5abf10b5)
     
 
 
@@ -2126,8 +2123,7 @@ plt.show()
 ```
 
 
-    
-![png](UFCWinFactors_files/UFCWinFactors_71_0.png)
+![UFCWinFactors_71_0](https://github.com/KieranCanter/UFCWinFactors/assets/74733079/5519f006-11e9-45ac-ab6b-115e1dc8704e)
     
 
 
@@ -2146,8 +2142,7 @@ plt.show()
 ```
 
 
-    
-![png](UFCWinFactors_files/UFCWinFactors_74_0.png)
+![UFCWinFactors_74_0](https://github.com/KieranCanter/UFCWinFactors/assets/74733079/4b536dee-0ba8-4c33-b4fa-27ea2c4a10a8)
     
 
 
@@ -2171,8 +2166,7 @@ plt.show()
 ```
 
 
-    
-![png](UFCWinFactors_files/UFCWinFactors_77_0.png)
+![UFCWinFactors_77_0](https://github.com/KieranCanter/UFCWinFactors/assets/74733079/bb8efe0c-9f06-4ce4-aae3-2ae809c034a7)
     
 
 
@@ -2192,8 +2186,7 @@ plt.show()
 ```
 
 
-    
-![png](UFCWinFactors_files/UFCWinFactors_79_0.png)
+![UFCWinFactors_79_0](https://github.com/KieranCanter/UFCWinFactors/assets/74733079/080d9af3-024e-4804-9597-b4b1a82333da)
     
 
 
@@ -2218,7 +2211,7 @@ plt.show()
 
 
     
-![png](UFCWinFactors_files/UFCWinFactors_81_0.png)
+![UFCWinFactors_81_0](https://github.com/KieranCanter/UFCWinFactors/assets/74733079/fe02aa29-aab2-4099-a991-3c36b3527d71)
     
 
 
@@ -2448,8 +2441,6 @@ plt.show()
 ```
 
 
-    
-![png](UFCWinFactors_files/UFCWinFactors_88_0.png)
 ![UFCWinFactors_88_0](https://github.com/KieranCanter/UFCWinFactors/assets/74733079/dd70896a-3e34-48f2-87b7-39db8d12cb95)
     
 
