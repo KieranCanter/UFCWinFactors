@@ -39,9 +39,6 @@ plt.style.use('ggplot')
 
 The data I'll be utilizing was obtained from scraping the statistics found on [ufcstats.com](https://www.ufcstats.com). Alternatively, pre-assembled data sets can be found across the internet, but many of these data sets aren't completely up-to-date, which is what manually scraping the data allowed me to ensure. Using scrapy and a couple custom spider scripts, I was able to get two data sets, one representing fighter stats by individual and the other representing fight stats by fight card (also referred to as event). Both of these CSV files as well as the zipped folders containing the scrapy scripts, instructions, etc. can be found below. As the instructions for scraping the data are found in the README files of the spiders, that won't be separately touched on in this tutorial.
 
-*Additional UFC stats and data that are also up-to-date but organized differently can be found in the [github repo](https://github.com/KieranCanter/CMSC320FinalProject/tree/gh-pages) for this tutorial.*
-
-
 ```python
 display(FileLink('fighters.csv', result_html_prefix="Fighter Data: "))
 display(FileLink('fightCards.csv', result_html_prefix="Fight Card Data: "))
