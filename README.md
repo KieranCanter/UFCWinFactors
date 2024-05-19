@@ -2143,7 +2143,7 @@ plt.show()
     
 
 
-For anyone that is familiar with UFC weight classes, lightweight (155 lbs limit) and welterweight (170 lbs limit) being the most popular by fighter count shouldn't be surprising. To be able to be as big as possible, many fighters will cut twenty, even twenty-five pounds or more from their normal walking weight to compete. For example, the normal lightweight fighter will weigh in at 155 lbs or less (156 for non-championship bouts) on the day of the weigh-ins, but weeks or months after the fight, they will probably be walking around at 170-180 lbs. For welterweight they could be anywhere from 185-200 or even more. Obviously this isn't true for every fighter, but one could imagine that most of the gross population (in the US at least) probably weigh between that 170-200 lbs range.
+For anyone that is familiar with UFC weight classes, lightweight (155 lbs limit) and welterweight (170 lbs limit) being the most popular by fighter count shouldn't be surprising. To be able to be as big as possible, many fighters will cut twenty, even twenty-five pounds or more from their normal walking weight to compete. For example, the normal lightweight fighter will weigh in at 155 lbs or less (156 for non-championship bouts) on the day of the weigh-ins, but weeks or months after the fight, they will probably be walking around at 170-180 lbs. For welterweight they could be anywhere from 185-200 or even more. Obviously this isn't true for every fighter, but one could imagine that most of the gross population (in the US at least) probably weighs between that 170-200 lbs range.
 
 Next let's look at wins by winning method.
 
